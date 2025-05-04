@@ -32,7 +32,7 @@ I'm a passionate AI & ML Engineer specializing in large language models, full-st
 - Reduced processing latency by 50% while enabling task-specific personalization across 5+ use cases
 - Achieved 40% higher completion rates compared to standard chatbots
 
-### 🖐️ [Palmprint Recognition](https://github.com/Swara-Joshi/Palmprint-Recognition)
+### 🖐️ [Palmprint Recognition](https://ieeexplore.ieee.org/document/10677138)
 - Implemented a novel algorithm using Segment Anything Model to extract palmprint regions
 - Applied advanced image processing techniques enhancing recognition efficiency by 35%
 - Research accepted at IEEE CONECCT 2024
@@ -73,44 +73,36 @@ I'm a passionate AI & ML Engineer specializing in large language models, full-st
     <img src="https://img.shields.io/badge/Time_Series-4285F4?style=flat-square&logo=google-analytics&logoColor=white" />
   </p>
   
-  <!-- Other Skills in a Table -->
-  <table>
-    <tr>
-      <td align="center">
-        <h4>💻 Languages</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        </p>
-      </td>
-      <td align="center">
-        <h4>🌐 Web Development</h4>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /><br/>
+  <!-- Languages - Highlighted -->
+  <h3>💻 Languages </h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  </p>
+  <!-- 🌐 Web Development - Highlighted -->
+  <h3>🌐 Web Development </h3>
+  <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        </p>
-      </td>
-      <td align="center">
-        <h4>☁️ Cloud & DevOps</h4>
-        <p>
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
+   <p>
+   <!-- >☁️ Cloud & DevOps - Highlighted -->
+   <h3>☁️ Cloud & DevOps</h3>
+   <p>
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
           <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-  
+   </p>
+   
   <!-- Databases -->
-  <h4>🗄️ Databases</h4>
+  <h3>🗄️ Databases</h3>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -119,7 +111,7 @@ I'm a passionate AI & ML Engineer specializing in large language models, full-st
   </p>
   
   <!-- Professional Skills -->
-  <h4>💼 Professional</h4>
+  <h3>💼 Professional</h3>
   <p>
     <img src="https://img.shields.io/badge/Problem_Solving-28A745?style=flat-square" />
     <img src="https://img.shields.io/badge/Time_Management-17A2B8?style=flat-square" />

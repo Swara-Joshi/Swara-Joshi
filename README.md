@@ -23,11 +23,11 @@ I'm a passionate AI & ML Engineer specializing in large language models, full-st
 - Implemented a hybrid search system combining PGVector semantic search and BM25 keyword matching with a dual-agent LLM architecture
 - 95% faster information retrieval, enabling users to navigate directly to specific timestamps across 30+ hours of content
 
-### 📰 [AI-Powered Newsletter System](https://github.com/Swara-Joshi/AI-Newsletter)
+### 📰 [AI-Powered Newsletter System](https://github.com/Swara-Joshi/AI-Powered-Newsletter)
 - Built an end-to-end content delivery system leveraging Selenium and Beautiful Soup to scrape 50+ daily articles
 - Integrated OpenAI models to generate 90% accurate summaries and deliver personalized newsletters to subscribers
 
-### 🤖 [AI Agent Chatbot](https://github.com/Swara-Joshi/AI-Agent-Chatbot)
+### 🤖 [AI Agent Chatbot](https://github.com/Swara-Joshi/Agentic-Chatbot)
 - Developed an agentic AI framework by integrating multiple LLMs (Llama, GPT-4) with specialized APIs
 - Reduced processing latency by 50% while enabling task-specific personalization across 5+ use cases
 - Achieved 40% higher completion rates compared to standard chatbots

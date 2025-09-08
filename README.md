@@ -18,6 +18,12 @@ I'm a passionate AI & ML Engineer specializing in large language models, full-st
 
 ## 🔥 Featured Projects
 
+### 📅 [Google Calendar Integration with Claude via MCP Server](https://github.com/Swara-Joshi/Google-Calender-MCP)
+- Developed an MCP server supporting 8 core functions: create, update, delete, search events, free/busy queries, and more.
+- Implemented multi-calendar support with OAuth 2.0 authentication and recurring event handling.
+- Managed 100+ events across calendars with 99.9% uptime reliability.
+- Streamlined scheduling workflows, improving efficiency by 40%.
+
 ### 🎬 [YT Navigator](https://github.com/Swara-Joshi/YT-Navigator)
 - Built a full-stack Django application that indexes 100+ video transcripts using vector embeddings and LangGraph agents
 - Implemented a hybrid search system combining PGVector semantic search and BM25 keyword matching with a dual-agent LLM architecture
